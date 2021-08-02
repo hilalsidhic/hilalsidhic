@@ -19,7 +19,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=hilalsidhic&theme=radical" />
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilalsidhic&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilalsidhic&theme=Gradient" />
 <!--
 **hilalsidhic/hilalsidhic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
