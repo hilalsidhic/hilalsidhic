@@ -4,7 +4,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
  Hi, I'm Muhammed Hilal, a passionate self-taught web developer from India.
  
- - 🔭 I’m currently working on [project21](https://github.com/hilalsidhic/Hotelmanagement12062021)
+ - 🔭 I’m currently working on [Shopping Cart Project](https://github.com/hilalsidhic/nodejs-express-ShoppingCartProject)
  - 🌱 I’m currently learning Expressjs and Mongo DB.
 
 <hr>
