@@ -2,7 +2,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- Hi, I'm Muhammed Hilal, a passionate self-taught web developer from India.
+ Hi, I'm Muhammed Hilal, a self-taught web developer .
  
  - 🔭 I’m currently working on [Shopping Cart Project](https://github.com/hilalsidhic/nodejs-express-ShoppingCartProject)
  - 🌱 I’m currently learning Expressjs and Mongo DB.
