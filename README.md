@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Hilal's+GitHub+Profile!)](https://git.io/typing-svg)
+
 ![Header](https://raw.githubusercontent.com/hilalsidhic/hilalsidhic/main/githeader.svg "Header")
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -25,7 +27,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 **📈Github Stats**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=hilalsidhic&theme=gradient" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=hilalsidhic&theme=redical&theme=radical" />
 
 <!--
 **hilalsidhic/hilalsidhic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
