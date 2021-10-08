@@ -6,7 +6,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 Hi, I'm Muhammed Hilal, a self-taught web developer.
 
-- 🔭 I’m currently working on [Transport App](https://github.com/hilalsidhic/transportapp)
+- 🔭 I’m currently working on [Netflix-clone](https://hilalsidhic.github.io/react-netflix-clone/)
 - 🌱 I’m currently learning ReactJS.
 
 <hr>
