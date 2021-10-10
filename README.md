@@ -21,7 +21,7 @@ Hi, I'm Muhammed Hilal, a self-taught web developer.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilalsidhic&&layout=compact" />
 
-<hr>
+<hr><hr>
 
 **📈 GitHub Stats**
 
