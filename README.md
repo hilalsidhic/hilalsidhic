@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+Muhammed+Hilal's+GitHub!;Java+Backend+Developer+%7C+Spring+Boot+%7C+Microservices+%7C+Cloud)](https://git.io/typing-svg)
 
-![Header](https://raw.githubusercontent.com/hilalsidhic/hilalsidhic/main/githeader.svg "Header")
 
 ### 👋 Hi there, I'm **Muhammed Hilal!**
 
