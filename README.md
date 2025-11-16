@@ -1,52 +1,85 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Hilal's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+Muhammed+Hilal's+GitHub!;Java+Backend+Developer+%7C+Spring+Boot+%7C+Microservices+%7C+Cloud)](https://git.io/typing-svg)
 
 ![Header](https://raw.githubusercontent.com/hilalsidhic/hilalsidhic/main/githeader.svg "Header")
 
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### 👋 Hi there, I'm **Muhammed Hilal!**
 
-Hi, I'm Muhammed Hilal, a self-taught web developer.
-<!--
-- 🔭 I’m currently working on [Netflix-clone](https://hilalsidhic.github.io/react-netflix-clone/) -->
-- 🌱 I’m currently learning Flutter.
+🚀 A passionate **Java Backend Developer** with **2.5+ years of experience** building scalable, high-performance systems.  
+I love crafting clean architectures, integrating cloud and AI technologies, and monitoring distributed systems.  
 
-<hr>
+---
 
-**߷ Languages and Tools**
+### 🧠 **About Me**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+- 💼 Currently working as a **Software Engineer at Tata Elxsi**
+- 🧩 Experienced in **Java, Spring Boot, Microservices, and RESTful APIs**
+- ☁️ Hands-on with **Docker, Kubernetes, AWS, and Grafana/Prometheus**
+- 🔍 Exploring **Kafka**, **System Design**, and **Cloud-Native Architecture**
+- 🤖 Enthusiastic about **AI integrations (OpenAI, LangChain, RAG)**
+- 🧠 Strong in **DSA**, **Object-Oriented Design**, and **Performance Optimization**
+- 🧩 Building production-grade backend projects with real deployment pipelines
 
+---
 
+### ⚙️ **Tech Stack**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilalsidhic&&layout=compact" />
+#### 💻 Languages
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
 
-<hr><hr>
+#### 🧩 Backend Frameworks
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"></code>
 
-**📈 GitHub Stats**
+#### 🗄️ Databases
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=hilalsidhic&theme=redical&theme=radical" />
+#### ☁️ DevOps & Cloud
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 
-<!--
-**hilalsidhic/hilalsidhic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🧠 Tools & Monitoring
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 **Projects Showcase**
+
+- 🧩 [**TaskMaster**](https://github.com/hilalsidhic/CollaborativeTaskManagementSystem)  
+  *Collaborative task management backend built with Spring Boot, JWT Auth, PostgreSQL, Docker & Kubernetes.*
+
+- 🤖 [**GenAI-Based Testcase Development**](https://github.com/hilalsidhic/GenAI-Testcase-Backend)  
+  *RAG-based AI system combining OpenAI, BART, and FAISS for intelligent test generation.*
+
+- 🌐 [**AI Integrated Web Scraper**](https://github.com/hilalsidhic/Web-Scraper-Application-With-AI-Integration)  
+  *Microservices-based web scraper using Selenium and Gemini AI, with Prometheus-Grafana monitoring.*
+
+---
+
+### 📈 **GitHub Stats**
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilalsidhic&show_icons=true&theme=radical" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilalsidhic&layout=compact&theme=radical" />
+
+---
+
+### 📫 **Connect With Me**
+
+📧 **Email:** [hilalsidhic21@gmail.com](mailto:hilalsidhic21@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/muhammedhilal](https://linkedin.com/in/muhammedhilal)  
+💻 **Portfolio / GitHub:** [github.com/hilalsidhic](https://github.com/hilalsidhic)
+
+---
+
+⭐ *“Building resilient backends, one microservice at a time.”*  
